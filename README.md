@@ -6,7 +6,7 @@ user can take a quiz to test themselves
 
 # downloading this project
 you can download this by visiting the github page 
-https://github.com/Ruchir28/Would_You_Rather_Game
+https://github.com/Ruchir28/Mobile_FlashCards-REACT-NATIVE
 
 # ✔😃 starting the app
 to start using this go on command prompt and change directory to this project's folder
